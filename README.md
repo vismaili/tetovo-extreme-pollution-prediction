@@ -143,7 +143,7 @@ The two CSV files must be placed in the `data/` directory when running the noteb
 **Step 1:** Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tetovo-extreme-pollution-prediction.git
+git clone https://github.com/vismaili/tetovo-extreme-pollution-prediction.git
 ```
 
 **Step 2:** Open the project directory.
