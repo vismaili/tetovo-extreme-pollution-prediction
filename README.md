@@ -1,4 +1,3 @@
-# tetovo-extreme-pollution-prediction
 # Predicting Extreme Particulate Pollution Events Using Explainable Machine Learning
 
 ### A Case Study of Tetovo, North Macedonia
