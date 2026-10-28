@@ -2,10 +2,6 @@
 
 ### A Case Study of Tetovo, North Macedonia
 
-**Machine Learning Project | South East European University (SEEU)**  
-**Group:** G2  
-**Course Professor:** Dr. Ilir Fetai
-
 ## 1. Project Overview
 
 Air pollution is an important environmental and public health concern in Tetovo, North Macedonia, particularly during periods of elevated particulate matter concentrations.
